@@ -1,4 +1,4 @@
-<h1 align="center">🌃José Ferreira Pinto🌃</h1>
+<h1 align="center">🌃 José Ferreira Pinto 💻</h1>
 <h3 align="center">Hey!👋 I'm Zé</h3>
 <h3 align="center">a Junior Full Stack Developer from Porto, Portugal</h3>
 
