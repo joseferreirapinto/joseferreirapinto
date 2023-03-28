@@ -3,6 +3,8 @@
 <h3 align="center">Hey! I'm José (aka Zé)👋</h3>
 <h3 align="center">a Junior Full Stack Developer from Porto, Portugal📍</h3>
 
+<h2 align="center">☎️ How to reach me:</h2>
+
 <h2 align="center">:hammer_and_wrench: Technologies and Tools I use:</h2>
 
 
