@@ -1,11 +1,8 @@
-<div align="center">
-
-### `🌃 José Ferreira Pinto 💻`
-
-</div>
+<h1 align="center">🌃 José Ferreira Pinto 💻</h1>
 
 <h4 align="center">Hey! I'm José (aka Zé)👋</h4>
 <h4 align="center">a Junior Full Stack Developer from Porto, Portugal📍</h4>
+<br>
 
 <h2 align="center">☎️ How To Reach Me:</h2>
 
@@ -47,7 +44,12 @@
     
 <div align="center">
     
-### `Junior Full Stack Developer`
+<div align="center">
+
+### `🌃 José Ferreira Pinto 💻`
+<h1 align="center">🌃 José Ferreira Pinto 💻</h1>
+
+</div>
 
 
 <!--
