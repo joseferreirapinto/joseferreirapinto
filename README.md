@@ -1,16 +1,29 @@
-<h1 align="center">🌃 José Ferreira Pinto 💻</h1>
+<div align="center">
 
-<h3 align="center">Hey! I'm José (aka Zé)👋</h3>
-<h3 align="center">a Junior Full Stack Developer from Porto, Portugal📍</h3>
+### `🌃 José Ferreira Pinto 💻`
 
-<h2 align="center">☎️ How to reach me:</h2>
+</div>
+
+<h4 align="center">Hey! I'm José (aka Zé)👋</h4>
+<h4 align="center">a Junior Full Stack Developer from Porto, Portugal📍</h4>
+
+<h2 align="center">☎️ How To Reach Me:</h2>
+
+<div align="center">
+    
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+    
+</div>
+
+<br>
 
 <h2 align="center">:hammer_and_wrench: Technologies and Tools I use:</h2>
 
-
+<div align="center">
+    
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -21,13 +34,20 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+    
+</div>
 
+<br>
 
 <h2 align="center">📖 Now Learning:</h2>
 
+<div align="center">
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
     
-### `npx fka`
+<div align="center">
+    
+### `Junior Full Stack Developer`
 
 
 <!--
