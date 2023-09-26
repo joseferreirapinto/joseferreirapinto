@@ -38,18 +38,11 @@
 <br>
 
 <h2 align="center">📖 Now Learning:</h2>
-<h1 align="center">React JS</h1>h1>
+<h1 align="center">React JS</h1>
 
+   
+   
 <div align="center">
-
-
-    
-<div align="center">
-    
-<div align="center">
-
-### `🌃 José Ferreira Pinto 💻`
-
 
 </div>
 
