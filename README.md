@@ -1,6 +1,6 @@
 <h1 align="center">🌃 José Ferreira Pinto 💻</h1>
 
-<h4 align="center">Hey! I'm José (aka Zé)👋</h4>
+<h4 align="center">Hey! I'm José👋</h4>
 <h4 align="center">a Junior Full Stack Developer from Porto, Portugal📍</h4>
 <br>
 
@@ -38,7 +38,7 @@
 <br>
 
 <h2 align="center">📖 Now Learning:</h2>
-<h1>React JS</h1>h1>
+<h1 align="center">React JS</h1>h1>
 
 <div align="center">
 
