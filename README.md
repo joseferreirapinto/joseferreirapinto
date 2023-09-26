@@ -47,7 +47,7 @@
 <div align="center">
 
 ### `🌃 José Ferreira Pinto 💻`
-<h1 align="center">🌃 José Ferreira Pinto 💻</h1>
+
 
 </div>
 
